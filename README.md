@@ -26,6 +26,21 @@
 - 신경망에서 대상을 인식하는 기능을 담당
 - 은닉층 파라미터 - 계층의 수, 계층별 유닛의 갯수
 - 은닉층의 파라미터를 구성하는 것 = 신경망을 디자인하는 것
+
+## 2차 회기함수 y=0.5^2 +1 코드 학습 결과
+<img src='https://user-images.githubusercontent.com/87973617/222628165-07dc2219-d646-4ae4-a4b3-be0a4a24de9b.PNG'>
+
+## 주어진 입력에 대해 class를 나누는 코드 결과
+<img src='https://user-images.githubusercontent.com/87973617/222628287-117dc7f5-e2e8-43ac-8c66-17ac7d3e9ac9.PNG'>
+
+## 텐서보드를 이용하여 MNIST 학습 진행 결과
+<img src='https://user-images.githubusercontent.com/87973617/222628456-63e5f789-7cc0-4fd9-b6cb-b1e3da42b5f3.PNG'>
+
+## MNIST를 CNN으로 학습 결과
+<img src='https://user-images.githubusercontent.com/87973617/222628600-4dacc881-9aa3-4ead-bfbf-e2db106c84c8.PNG'>
+<img src='https://user-images.githubusercontent.com/87973617/222628647-4f4d2480-be06-4d82-a75d-b34e325bfd31.PNG'>
+
+## 인공지능 프로젝트
 <p align='center'>
 <img src='https://user-images.githubusercontent.com/87973617/222626447-2746fb40-4ed6-41b5-b3ce-325f3857c7a6.gif'>
 </p>
